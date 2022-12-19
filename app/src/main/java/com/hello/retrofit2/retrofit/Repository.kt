@@ -1,8 +1,9 @@
-package com.hello.retrofit2
+package com.hello.retrofit2.retrofit
 
+import com.hello.retrofit2.model.Country
 import retrofit2.Response
 
-class Repository {
+class Repository() {
     suspend fun getPost(): Response<Country>{ //просто получить
         return RetrofitInstance.api.getPost()
     }

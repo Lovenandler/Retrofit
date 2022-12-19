@@ -1,8 +1,8 @@
-package com.hello.retrofit2
+package com.hello.retrofit2.MVVM
 
-import android.view.View
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
+import com.hello.retrofit2.retrofit.Repository
 
 class MainViewModelFactory(private val repository: Repository)
     : ViewModelProvider.Factory {

@@ -1,4 +1,4 @@
-package com.hello.retrofit2
+package com.hello.retrofit2.model
 
 class Constants {
     companion object{

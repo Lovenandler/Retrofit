@@ -1,5 +1,6 @@
-package com.hello.retrofit2
+package com.hello.retrofit2.retrofit
 
+import com.hello.retrofit2.model.Country
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Path

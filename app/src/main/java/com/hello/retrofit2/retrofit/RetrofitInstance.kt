@@ -1,6 +1,6 @@
-package com.hello.retrofit2
+package com.hello.retrofit2.retrofit
 
-import com.hello.retrofit2.Constants.Companion.BASE_URL
+import com.hello.retrofit2.model.Constants.Companion.BASE_URL
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 

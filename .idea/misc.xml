@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/five/Retrofit2/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/five/Retrofit2/app/src/main/res/layout/activity_load.xml" value="0.22" />
+        <entry key="..\:/five/Retrofit2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/five/Retrofit2/app/src/main/res/layout/fragment_list.xml" value="0.25" />
+        <entry key="..\:/five/Retrofit2/app/src/main/res/layout/fragment_room.xml" value="0.25" />
         <entry key="..\:/five/Retrofit2/app/src/main/res/layout/layout_country_info.xml" value="0.39809782608695654" />
       </map>
     </option>

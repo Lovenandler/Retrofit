@@ -1,8 +1,10 @@
-package com.hello.retrofit2
+package com.hello.retrofit2.MVVM
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
+import com.hello.retrofit2.model.Country
+import com.hello.retrofit2.retrofit.Repository
 import kotlinx.coroutines.launch
 import retrofit2.Response
 
